@@ -11,8 +11,7 @@
       "bot"
     ],
     "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
-    "env": {
+    "repository": https://github.com/alshantg/LuciferMoringstar-Robot
         "API_HASH": {
             "description": "Get this value from :- https://youtu.be/5eEsvLAKVc0",
             "required": true
